@@ -23,8 +23,8 @@ My attempt to code this challenge is in the links below.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-using-css-flexbox-2Dp04jNXyh
+- Live Site URL: https://goldensunfire.github.io/Product-preview-card-component-with-HTML-CSS/
 
 ## My process
 
